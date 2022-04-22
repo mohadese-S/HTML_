@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="db8f49f0-c1fc-40ae-bb3b-262151204056" name="Html" url="https://">
+        <fileTransfer rootFolder="/home/mohadese/Html" accessType="SFTP" host="192.168.1.103" port="22" sshConfigId="bdf016ed-f0b8-4afb-9765-61ec76cc0618" sshConfig="Tutorial Server">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

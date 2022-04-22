@@ -1,0 +1,799 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2022-04-21 18:32+0430\n"
+"PO-Revision-Date: 2022-04-22 21:55+0430\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: sample.php\n"
+
+#: sample.php:5
+msgid "ERROR PAGE_ERROR SECTION_H2_ONE"
+msgstr "Page Not Found"
+
+#: sample.php:6
+msgid "ERROR PAGE_ERROR SECTION_TWO_P_ONE"
+msgstr "The page you were looking for could not be found. May be one of the links below can help"
+
+#: sample.php:7
+msgid "ERROR PAGE_ERROR SECTION_TWO_A_ONE"
+msgstr "Return to home"
+
+#: sample.php:8
+msgid "ERROR PAGE_ERROR SECTION_TWO_A_TWO"
+msgstr "Get a quote"
+
+#: sample.php:11
+msgid "COMING SOON-SPLIT_SECTION_LOGIN_H5_ONE"
+msgstr "Lorem ipsum dolor sit amet"
+
+#: sample.php:12
+msgid "COMING SOON-SPLIT_SECTION_LOGIN_H3_ONE"
+msgstr "We are Coming!"
+
+#: sample.php:13
+msgid "COMING SOON-SPLIT_SECTION_LOGIN_P_ONE"
+msgstr "We're preparing to launch soon — hit the form below and we'll let you know when we're live"
+
+#: sample.php:14
+msgid "COMING SOON-SPLIT_SECTION_LOGIN_A_ONE"
+msgstr "Notify Me"
+
+#: sample.php:17
+msgid "CONTACT-SPLIT_SECTION_PAGE HEADER_H2_ONE"
+msgstr "Contact"
+
+#: sample.php:19
+msgid "CONTACT-SPLIT_SECTION_ADDRESS & MAP STARTS_H2_ONE"
+msgstr "heading"
+
+#: sample.php:20
+msgid "CONTACT-SPLIT_SECTION_ADDRESS & MAP STARTS_H5_ONE"
+msgstr " Let's Get Connected "
+
+#: sample.php:21
+msgid "CONTACT-SPLIT_SECTION_ADDRESS & MAP STARTS_H2_TWO"
+msgstr "Connect with Wixer "
+
+#: sample.php:22
+msgid "CONTACT-SPLIT_SECTION_PAGE HEADER_P_TWO"
+msgstr "Duis mollis, est non commodo luctus, nisi porttitor ligula, eget lacinia odio sem nec elit. Aenean eu leo quam. Pellentesque ornare sem. Nullam id dolor id nibh ultricies vehicula ut id elit ullamcorper"
+
+#: sample.php:23
+msgid "CONTACT-SPLIT_SECTION_CONTACT FROM STARTS_H5_ONE"
+msgstr " Leave a message "
+
+#: sample.php:24
+msgid "CONTACT-SPLIT_SECTION_CONTACT FROM STARTS_H2_ONE"
+msgstr "Let us know how we can help you. "
+
+#: sample.php:29
+msgid "FAQ_SECTION_PAGE HEADER_H2_ONE"
+msgstr "FAQ'S"
+
+#: sample.php:31
+msgid "FAQ_SECTION_FAQS START_H5_ONE"
+msgstr " Any Query? "
+
+#: sample.php:32
+msgid "FAQ_SECTION_FAQS START_H2_ONE"
+msgstr " Frequently Asked "
+
+#: sample.php:33
+msgid "FAQ_SECTION_FAQS START_P_TWO"
+msgstr "Curabitur mollis bibendum luctus. Duis suscipit vitae dui sed suscipit. Vestibulum auctor nunc vitae diam eleifend, in maximus metus sollicitudin. Quisque vitae sodales lectus. Nam porttitor justo sed mi finibus, vel tristique risus faucibus. "
+
+#: sample.php:34
+msgid "FAQ_SECTION_FAQS START_A_ONE"
+msgstr "Inspections And Occupancy Permit"
+
+#: sample.php:35
+msgid "FAQ_SECTION_FAQS START_P_THREE"
+msgstr "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+
+#: sample.php:36
+msgid "FAQ_SECTION_FAQS START_A_TWO"
+msgstr "Pharmaceutical Advice"
+
+#: sample.php:37
+msgid "FAQ_SECTION_FAQS START_A_THREE"
+msgstr "Medical Counseling"
+
+#: sample.php:38
+msgid "FAQ_SECTION_FAQS START_A_FOUR"
+msgstr "Rehabilitation Center"
+
+#: sample.php:47
+msgid "FORGET-PASSWORD_SECTION_LOGIN_H5_ONE"
+msgstr "Lorem ipsum dolor sit amet"
+
+#: sample.php:48
+msgid "FORGET-PASSWORD_SECTION_LOGIN_H3_ONE"
+msgstr "Password Reset"
+
+#: sample.php:53
+msgid "LOGIN_SECTION_LOGIN_H5_ONE"
+msgstr "Lorem ipsum dolor sit amet"
+
+#: sample.php:54
+msgid "LOGIN_SECTION_LOGIN_H3_ONE"
+msgstr "Get more things, done with Login platform."
+
+#: sample.php:55
+msgid "LOGIN_SECTION_LOGIN_P_ONE"
+msgstr "Access to the most powerful tool in the entire design and web industry"
+
+#: sample.php:56
+msgid "LOGIN_SECTION_LOGIN_A_ONE"
+msgstr "Please fill the following form with your information"
+
+#: sample.php:59
+msgid "NAV-BAR_SECTION_HEADER START_DIV_TWO_LI_ONE"
+msgstr "home"
+
+#: sample.php:60
+msgid "NAV-BAR_SECTION_HEADER START_DIV_TWO_LI_TWO"
+msgstr "features"
+
+#: sample.php:61
+msgid "NAV-BAR_SECTION_HEADER START_DIV_TWO_LI_THREE"
+msgstr "team"
+
+#: sample.php:62
+msgid "NAV-BAR_SECTION_HEADER START_DIV_TWO_LI_FOUR"
+msgstr "login"
+
+#: sample.php:63
+msgid "NAV-BAR_SECTION_HEADER START_DIV_THREE_LI_ONE"
+msgstr "pricing"
+
+#: sample.php:64
+msgid "NAV-BAR_SECTION_HEADER START_DIV_THREE_LI_TWO"
+msgstr "register"
+
+#: sample.php:65
+msgid "NAV-BAR_SECTION_HEADER START_DIV_THREE_LI_THREE"
+msgstr "FAQ"
+
+#: sample.php:66
+msgid "NAV-BAR_SECTION_HEADER START_DIV_THREE_LI_FOUR"
+msgstr "contact"
+
+#: sample.php:70
+msgid "PRICING-CREATIVE_SECTION_PAGE HEADER_H2_ONE"
+msgstr "Pricing"
+
+#: sample.php:72
+msgid "PRICING-CREATIVE_SECTION_PRICING START_H5_ONE"
+msgstr " Find a plan that works for you"
+
+#: sample.php:73
+msgid "PRICING-CREATIVE_SECTION_PRICING START_H2_ONE"
+msgstr " Notable Packages "
+
+#: sample.php:74
+msgid "PRICING-CREATIVE_SECTION_PRICING START_P_TWO"
+msgstr "Curabitur mollis bibendum luctus. Duis suscipit vitae dui sed suscipit. Vestibulum auctor nunc vitae diam eleifend, in maximus metus sollicitudin. Quisque vitae sodales lectus. Nam porttitor justo sed mi finibus, vel tristique risus faucibus. "
+
+#: sample.php:75
+msgid "PRICING-CREATIVE_SECTION_PRICING START_H6_ONE"
+msgstr "regular"
+
+#: sample.php:76
+msgid "PRICING-CREATIVE_SECTION_PRICING START_H4_ONE"
+msgstr "Design Combo"
+
+#: sample.php:77
+msgid "PRICING-CREATIVE_SECTION_PRICING START_P_THREE"
+msgstr "creative free Web with ads"
+
+#: sample.php:78
+msgid "PRICING-CREATIVE_SECTION_PRICING START_P_FOUR"
+msgstr "connect domain"
+
+#: sample.php:79
+msgid "PRICING-CREATIVE_SECTION_PRICING START_P_FIVE"
+msgstr "ideal for small scale websites "
+
+#: sample.php:80
+msgid "PRICING-CREATIVE_SECTION_PRICING START_P_SIX"
+msgstr "business & ecommerce"
+
+#: sample.php:81
+msgid "PRICING-CREATIVE_SECTION_PRICING START_P_SEVEN"
+msgstr "maximum web space"
+
+#: sample.php:82
+msgid "PRICING-CREATIVE_SECTION_PRICING START_A_ONE"
+msgstr "choose plan"
+
+#: sample.php:83
+msgid "PRICING-CREATIVE_SECTION_PRICING START_H6_TWO"
+msgstr "Premium"
+
+#: sample.php:84
+msgid "PRICING-CREATIVE_SECTION_PRICING START_H4_TWO"
+msgstr "Professional"
+
+#: sample.php:85
+msgid "PRICING-CREATIVE_SECTION_PRICING START_H6_THREE"
+msgstr "Corporate"
+
+#: sample.php:86
+msgid "PRICING-CREATIVE_SECTION_PRICING START_H4_THREE"
+msgstr "Core Business"
+
+#: sample.php:91
+msgid "REGISTER_SECTION_LOGIN_H5_ONE"
+msgstr "Lorem ipsum dolor sit amet"
+
+#: sample.php:92
+msgid "REGISTER_SECTION_LOGIN_H3_ONE"
+msgstr "Get more things, done with Login platform."
+
+#: sample.php:96
+msgid "SHOP-CART_SECTION_PAGE HEADER_H2_ONE"
+msgstr "Shop"
+
+#: sample.php:98
+msgid "SHOP-CART_SECTION_SHOPPING CART STATS_TABLE_ONE_TH_ONE"
+msgstr "Products"
+
+#: sample.php:99
+msgid "SHOP-CART_SECTION_SHOPPING CART STATS_TABLE_ONE_TH_TWO"
+msgstr "Price"
+
+#: sample.php:100
+msgid "SHOP-CART_SECTION_SHOPPING CART STATS_TABLE_ONE_TH_THREE"
+msgstr "Quantity"
+
+#: sample.php:101
+msgid "SHOP-CART_SECTION_SHOPPING CART STATS_TABLE_ONE_TH_FOUR"
+msgstr "Total"
+
+#: sample.php:102 sample.php:103
+msgid "SHOP-CART_SECTION_SHOPPING CART STATS_H5_ONE"
+msgstr "just landed"
+
+#: sample.php:104
+msgid "SHOP-CART_SECTION_SHOPPING CART STATS_A_ONE"
+msgstr "Clear Cart"
+
+#: sample.php:106
+msgid "SHOP-CART_SECTION_SHOPPING CART STATS_H4_ONE"
+msgstr " Calculate shipping"
+
+#: sample.php:107
+msgid "SHOP-CART_SECTION_SHOPPING CART STATS_H4_TWO"
+msgstr "cart totals"
+
+#: sample.php:108
+msgid "SHOP-CART_SECTION_SHOPPING CART STATS_TABLE_TWO_TH_ONE"
+msgstr "Subtotal"
+
+#: sample.php:109
+msgid "SHOP-CART_SECTION_SHOPPING CART STATS_TABLE_TWO_TH_TWO"
+msgstr "Shipping"
+
+#: sample.php:110
+msgid "SHOP-CART_SECTION_SHOPPING CART STATS_TABLE_TWO_LABEL_THREE"
+msgstr "Free Shipping"
+
+#: sample.php:111
+msgid "SHOP-CART_SECTION_SHOPPING CART STATS_TABLE_TWO_LABEL_FOUR"
+msgstr "Cash on Delivery"
+
+#: sample.php:112
+msgid "SHOP-CART_SECTION_SHOPPING CART STATS_TABLE_TWO_TH_THREE"
+msgstr "Total"
+
+#: sample.php:115
+msgid "SHOP-DETAIL_SECTION_PAGE HEADER_H2_ONE"
+msgstr "Shop"
+
+#: sample.php:117
+msgid "SHOP-DETAIL_SECTION_SHOP STARTS_H3_ONE"
+msgstr "Product Details"
+
+#: sample.php:120
+msgid "SHOP-DETAIL_SECTION_SHOP STARTS_A_ONE"
+msgstr "add to cart"
+
+#: sample.php:121
+msgid "SHOP-DETAIL_SECTION_SHOP STARTS_P_FOUR"
+msgstr "Add to Wishlist"
+
+#: sample.php:122
+msgid "SHOP-DETAIL_SECTION_SHOP STARTS_P_FIVE"
+msgstr "Categories: "
+
+#: sample.php:123
+msgid "SHOP-DETAIL_SECTION_SHOP STARTS_P_SIX"
+msgstr "Business "
+
+#: sample.php:124
+msgid "SHOP-DETAIL_SECTION_SHOP STARTS_P_SEVEN"
+msgstr "Share Product:"
+
+#: sample.php:125
+msgid "SHOP-DETAIL_SECTION_SHOP STARTS_P_EIGHT"
+msgstr "Description"
+
+#: sample.php:128
+msgid "SHOP-DETAIL_SECTION_SHOP STARTS_H3_TWO"
+msgstr "Related Products"
+
+#: sample.php:129
+msgid "SHOP-DETAIL_SECTION_FOOTER STARTS_H4_ONE"
+msgstr "Reviews ( )"
+
+#: sample.php:130
+msgid "SHOP-DETAIL_SECTION_SHOP STARTS_H4_TWO"
+msgstr " add your reviews"
+
+#: sample.php:131
+msgid "SHOP-DETAIL_SECTION_SHOP STARTS_P_ELEVEN"
+msgstr " Rating:"
+
+#: sample.php:132
+msgid "SHOP-DETAIL_SECTION_SHOP STARTS_H3_THREE"
+msgstr "Related Products"
+
+#: sample.php:136
+msgid "SIDE-MENU_SECTION_SIDE MENU_DIV_ONE_A_ONE"
+msgstr "Home"
+
+#: sample.php:137
+msgid "SIDE-MENU_SECTION_SIDE MENU_DIV_ONE_A_TWO"
+msgstr "Features"
+
+#: sample.php:138
+msgid "SIDE-MENU_SECTION_SIDE MENU_DIV_ONE_A_THREE"
+msgstr "Team"
+
+#: sample.php:139
+msgid "SIDE-MENU_SECTION_SIDE MENU_DIV_ONE_A_FOUR"
+msgstr "Login"
+
+#: sample.php:140
+msgid "SIDE-MENU_SECTION_SIDE MENU_DIV_ONE_A_FIVE"
+msgstr "Pricing"
+
+#: sample.php:141
+msgid "SIDE-MENU_SECTION_SIDE MENU_DIV_ONE_A_SIX"
+msgstr "Register"
+
+#: sample.php:142
+msgid "SIDE-MENU_SECTION_SIDE MENU_DIV_ONE_A_SEVEN"
+msgstr "FAQ"
+
+#: sample.php:143
+msgid "SIDE-MENU_SECTION_SIDE MENU_DIV_ONE_A_EIGHT"
+msgstr "Contact"
+
+#: sample.php:148
+msgid "TEAM-CLASSIC-HALF_SECTION_PAGE HEADER_H2_ONE"
+msgstr "Team"
+
+#: sample.php:150
+msgid "TEAM-CLASSIC-HALF_SECTION_TEAM START_H5_ONE"
+msgstr " Heros of our company "
+
+#: sample.php:151
+msgid "TEAM-CLASSIC-HALF_SECTION_TEAM START_H2_ONE"
+msgstr " Meet Our Team "
+
+#: sample.php:152
+msgid "TEAM-CLASSIC-HALF_SECTION_TEAM START_P_TWO"
+msgstr "Curabitur mollis bibendum luctus. Duis suscipit vitae dui sed suscipit. Vestibulum auctor nunc vitae diam eleifend, in maximus metus sollicitudin. Quisque vitae sodales lectus. Nam porttitor justo sed mi finibus, vel tristique risus faucibus"
+
+#: sample.php:153
+msgid "TEAM-CLASSIC-HALF_SECTION_TEAM START_A_ONE"
+msgstr "Learn More"
+
+#: sample.php:160
+msgid "INDEX_SECTION_ONE_H2_ONE"
+msgstr "heading"
+
+#: sample.php:161
+msgid "INDEX_SECTION_ONE_DIV_FOUR"
+msgstr "the optimum"
+
+#: sample.php:162
+msgid "INDEX_SECTION_ONE_DIV_FIVE"
+msgstr "digital marketing"
+
+#: sample.php:163
+msgid "INDEX_SECTION_ONE_DIV_SIX"
+msgstr "brand agency"
+
+#: sample.php:164
+msgid "INDEX_SECTION_ONE_DIV_SEVEN"
+msgstr "The Best Multipurpose One Page Template in Market"
+
+#: sample.php:165
+msgid "INDEX_SECTION_ONE_DIV_EIGHT_A_ONE"
+msgstr "get started"
+
+#: sample.php:168
+msgid "INDEX_SECTION_TWO_H5_ONE"
+msgstr " Amazing creativity "
+
+#: sample.php:169
+msgid "INDEX_SECTION_TWO_H2_ONE"
+msgstr " Adorable features "
+
+#: sample.php:170
+msgid "INDEX_SECTION_TWO_P_ONE"
+msgstr "Curabitur mollis bibendum luctus. Duis suscipit vitae dui sed suscipit. Vestibulum auctor nunc vitae diam eleifend, in maximus metus sollicitudin. Quisque vitae sodales lectus. Nam porttitor justo sed mi finibus, vel tristique risus faucibus"
+
+#: sample.php:171
+msgid "INDEX_SECTION_TWO_H4_ONE"
+msgstr "Unique Layout"
+
+#: sample.php:172
+msgid "INDEX_SECTION_TWO_P_TWO"
+msgstr "A robust, multipurpose template built with modularity at the core."
+
+#: sample.php:173
+msgid "INDEX_SECTION_TWO_H4_TWO"
+msgstr "Online Live Support"
+
+#: sample.php:174
+msgid "INDEX_SECTION_TWO_P_THREE"
+msgstr "You can build your site in-browser with modular interface blocks."
+
+#: sample.php:175
+msgid "INDEX_SECTION_TWO_H4_THREE"
+msgstr "Responsive Design"
+
+#: sample.php:176
+msgid "INDEX_SECTION_TWO_P_FOUR"
+msgstr "There are many variations of passages of Lorem Ipsum available."
+
+#: sample.php:180
+msgid "INDEX_SECTION_THREE_H2_ONE"
+msgstr " Look at our achievements "
+
+#: sample.php:181
+msgid "INDEX_SECTION_THREE_H5_ONE"
+msgstr " Look at our achievements "
+
+#: sample.php:182
+msgid "INDEX_SECTION_THREE_H2_TWO"
+msgstr " More Valued Facts "
+
+#: sample.php:183
+msgid "INDEX_SECTION_THREE_H6_ONE"
+msgstr "Customers"
+
+#: sample.php:184
+msgid "INDEX_SECTION_THREE_H6_TWO"
+msgstr "Total Web Pages"
+
+#: sample.php:185
+msgid "INDEX_SECTION_THREE_H6_THREE"
+msgstr "Accolades Collect"
+
+#: sample.php:186
+msgid "INDEX_SECTION_THREE_H6_FOUR"
+msgstr "Line of Code"
+
+#: sample.php:187
+msgid "INDEX_section_THREE_H6_FIVE"
+msgstr "Cups Of Coffee"
+
+#: sample.php:191
+msgid "INDEX_SECTION_FOUR_H2_ONE"
+msgstr "heading"
+
+#: sample.php:192
+msgid "INDEX_SECTION_FOUR_H5_ONE"
+msgstr " Basic info about us "
+
+#: sample.php:193
+msgid "INDEX_SECTION_FOUR_H2_TWO"
+msgstr " our professional achievements! "
+
+#: sample.php:194
+msgid "INDEX_SECTION_FOUR_P_ONE"
+msgstr "Wixer is a design studio founded in London. Nowadays, we've grown and expanded our services, and have become a multinational firm, offering a variety of services and solutions Worldwide"
+
+#: sample.php:195
+msgid "INDEX_SECTION_FOUR_H6_ONE"
+msgstr "Mobile app designs "
+
+#: sample.php:196
+msgid "INDEX_SECTION_FOUR_H6_TWO"
+msgstr "Design and branding"
+
+#: sample.php:197
+msgid "INDEX_SECTION_FOUR_H6_THREE"
+msgstr "custom web solutions"
+
+#: sample.php:198
+msgid "INDEX_SECTION_FOUR_H6_FOUR"
+msgstr "Risk management "
+
+#: sample.php:202
+msgid "INDEX_SECTION_FIVE_H5_ONE"
+msgstr " A passionate team "
+
+#: sample.php:203
+msgid "INDEX_SECTION_FIVE_H2_ONE"
+msgstr " Meet The Heroes "
+
+#: sample.php:204
+msgid "INDEX_SECTION_FIVE_H6_ONE"
+msgstr "Project Management "
+
+#: sample.php:205
+msgid "INDEX_SECTION_FIVE_H6_TWO"
+msgstr "SEO Services"
+
+#: sample.php:206
+msgid "INDEX_SECTION_FIVE_H6_THREE"
+msgstr "Marketing Online "
+
+#: sample.php:207
+msgid "INDEX_SECTION_FIVE_H6_FOUR"
+msgstr "Web Consulting"
+
+#: sample.php:208
+msgid "INDEX_SECTION_FIVE_H6_FIVE"
+msgstr "Audit"
+
+#: sample.php:209
+msgid "INDEX_SECTION_FIVE_H6_SIX"
+msgstr "Management"
+
+#: sample.php:213
+msgid "INDEX_SECTION_SIX_H2_ONE"
+msgstr "heading"
+
+#: sample.php:214
+msgid "INDEX_SECTION_SIX_H5_ONE"
+msgstr " Information about company "
+
+#: sample.php:215
+msgid "INDEX_SECTION_SIX_H2_TWO"
+msgstr " Modeling Agency "
+
+#: sample.php:216
+msgid "INDEX_SECTION_SIX_P_ONE"
+msgstr "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc mauris arcu, lobortis id interdum vitae,interdum eget elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc mauris arcu, lobortis id interdum vitae, interdum eget elit"
+
+#: sample.php:217
+msgid "INDEX_SECTION_SIX_A_ONE"
+msgstr "Read More"
+
+#: sample.php:220
+msgid "INDEX_SECTION_SEVEN_H2_ONE"
+msgstr "heading"
+
+#: sample.php:221
+msgid "INDEX_SECTION_SEVEN_H2_TWO"
+msgstr "design for companies and freelancers."
+
+#: sample.php:222
+msgid "INDEX_SECTION_SEVEN_P_ONE"
+msgstr "Curabitur mollis bibendum luctus. Duis suscipit vitae dui sed suscipit. Vestibulum auctor nunc vitae diam eleifend, in maximus metus sollicitudin"
+
+#: sample.php:225
+msgid "INDEX_SECTION_EIGHT_H5_ONE"
+msgstr " Some of the best projects "
+
+#: sample.php:226
+msgid "INDEX_SECTION_EIGHT_H2_ONE"
+msgstr " Amazing work "
+
+#: sample.php:227
+msgid "INDEX_SECTION_EIGHT_H3_TWO"
+msgstr "Branding Work"
+
+#: sample.php:228
+msgid "INDEX_SECTION_EIGHT_H5_TWO"
+msgstr " some branding ideas "
+
+#: sample.php:229
+msgid "INDEX_SECTION_EIGHT_H3_THREE"
+msgstr "Photography"
+
+#: sample.php:230
+msgid "INDEX_SECTION_EIGHT_H5_THREE"
+msgstr " photography ideas "
+
+#: sample.php:231
+msgid "INDEX_SECTION_EIGHT_H5_FOUR"
+msgstr " some animated ideas "
+
+#: sample.php:232
+msgid "INDEX_SECTION_EIGHT_H3_FOUR"
+msgstr "Animation Project"
+
+#: sample.php:233
+msgid "INDEX_SECTION_EIGHT_H5_FIVE"
+msgstr " some development ideas "
+
+#: sample.php:234
+msgid "INDEX_SECTION_EIGHT_H3_SIX"
+msgstr "development project"
+
+#: sample.php:235
+msgid "INDEX_SECTION_EIGHT_H3_FIVE"
+msgstr "SEO Works"
+
+#: sample.php:236
+msgid "INDEX_SECTION_EIGHT_H5_SEVEN"
+msgstr " SEO ideas "
+
+#: sample.php:237
+msgid "INDEX_SECTION_EIGHT_H3_SEVEN"
+msgstr "Architecture Work"
+
+#: sample.php:238
+msgid "INDEX_SECTION_EIGHT_H5_EIGHT"
+msgstr "Some Architecture Ideas"
+
+#: sample.php:242
+msgid "INDEX_SECTION_NINE_H5_ONE"
+msgstr " Chose the best one "
+
+#: sample.php:243
+msgid "INDEX_SECTION_NINE_H2_ONE"
+msgstr " Our Pricing Plans "
+
+#: sample.php:244
+msgid "INDEX_SECTION_NINE_H4_ONE"
+msgstr "Basic Plan"
+
+#: sample.php:245
+msgid "INDEX_SECTION_NINE_P_TWO"
+msgstr "If you are a small business and you are interested in small rebranding then this is a perfect plan for you"
+
+#: sample.php:254
+msgid "INDEX_SECTION_NINE_A_TWO"
+msgstr "go advanced"
+
+#: sample.php:255
+msgid "INDEX_SECTION_NINE_H4_THREE"
+msgstr "Premium Plan"
+
+#: sample.php:259
+msgid "INDEX_SECTION_TEN_H2_ONE"
+msgstr "heading"
+
+#: sample.php:260
+msgid "INDEX_SECTION_TEN_H5_ONE"
+msgstr "Worldwide feedback"
+
+#: sample.php:261
+msgid "INDEX_SECTION_TEN_H2_TWO"
+msgstr " Happy Clients"
+
+#: sample.php:264
+msgid "INDEX_SECTION_ELEVEN_H2_ONE"
+msgstr "heading"
+
+#: sample.php:265
+msgid "INDEX_SECTION_ELEVEN_H5_ONE"
+msgstr " Read our blogs "
+
+#: sample.php:266
+msgid "INDEX_SECTION_ELEVEN_H2_TWO"
+msgstr " Website Blogging "
+
+#: sample.php:267
+msgid "INDEX_SECTION_ELEVEN_H3_ONE"
+msgstr "Make Strategic Solutions"
+
+#: sample.php:269
+msgid "INDEX_SECTION_ELEVEN_H3_TWO"
+msgstr "Creating better experience"
+
+#: sample.php:272
+msgid "INDEX_SECTION_TWELVE_H2_ONE"
+msgstr "heading"
+
+#: sample.php:276
+msgid "INDEX_SECTION_THIRTEEN_H2_ONE"
+msgstr " Connect With Wixer."
+
+#: sample.php:277
+msgid "INDEX_SECTION_THIRTEEN_P_ONE"
+msgstr "Curabitur mollis bibendum luctus. Duis suscipit vitae dui sed suscipit. Vestibulum auctor nunc vitae diam eleifend"
+
+#: sample.php:280
+msgid "INDEX_SECTION_THIRTEEN_H2_TWO"
+msgstr " Leave a message "
+
+#: sample.php:281
+msgid "INDEX_SECTION_THIRTEEN_H2_THREE"
+msgstr " Need Assistance? "
+
+#: sample.php:284
+msgid "TITLE_ONE"
+msgstr "Wixer | Error"
+
+#: sample.php:285
+msgid "TITLE_TWO"
+msgstr "Wixer | Comingsoon"
+
+#: sample.php:286
+msgid "TITLE_THREE"
+msgstr "Wixer | Contact"
+
+#: sample.php:287
+msgid "TITLE_FOUR"
+msgstr "Wixer | FAQ"
+
+#: sample.php:288
+msgid "TITLE_FIVE"
+msgstr "Wixer | Password"
+
+#: sample.php:289
+msgid "TITLE_SIX"
+msgstr "Wixer | Login"
+
+#: sample.php:290
+msgid "TITLE_SEVEN"
+msgstr "Wixer | Register"
+
+#: sample.php:291
+msgid "TITLE_EIGHT"
+msgstr "Wixer | PRICING"
+
+#: sample.php:292
+msgid "TITLE_NINE"
+msgstr "Wixer | Shop"
+
+#: sample.php:293
+msgid "TITLE_TEN"
+msgstr "Wixer | Team"
+
+#: sample.php:294
+msgid "TITLE_ELEVEN"
+msgstr "Wixer | One Page Parallax"
+
+#: sample.php:297
+msgid "LOCATION PATH_ONE"
+msgstr "contact-split"
+
+#: sample.php:298
+msgid "LOCATION PATH_TWO"
+msgstr "faq"
+
+#: sample.php:299
+msgid "LOCATION PATH_THREE"
+msgstr "pricing creative"
+
+#: sample.php:300
+msgid "LOCATION PATH_FOUR"
+msgstr "shop cart"
+
+#: sample.php:301
+msgid "LOCATION PATH_FIVE"
+msgstr "shop detail"
+
+#: sample.php:302
+msgid "LOCATION PATH_SIX"
+msgstr "team classic half"
+
+#: sample.php:303
+msgid "LOCATION PATH_SEVEN"
+msgstr "Error"
+
+#: sample.php:305
+msgid "LOCATION PATH_YOU_ARE_HERE"
+msgstr "You are here:"
+
+#: sample.php:306
+msgid "LOCATION PATH_HOME"
+msgstr "Home"
